@@ -1,0 +1,8 @@
+day,max temperature,min temperature,windspeed,humidity,event
+monday,12,10,10,23,rain
+tuesday,13,5,12,34,thunderstorm
+wed,14,7,14,43,rain
+thu,15,8,15,34,sunny
+fri,16,9,13,23,fog
+sat,17,3,11,21,fog
+sun,12,2,12,20,rain
